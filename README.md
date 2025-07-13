@@ -14,7 +14,7 @@ Technologies Used
 
 Sample Output:
 
-| Drowsy Detected (Alert Triggered)                     | Eyes Open (Normal)                                   |
+| Eyes Open (Normal)            | Drowsy Detected (Alert Triggered)                                      |
 | ----------------------------------------------------- | ---------------------------------------------------- |
 | ![Drowsy](./output2.jpg) | ![Awake](./output1.jpg) |
 
